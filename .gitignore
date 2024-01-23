@@ -10,3 +10,4 @@ compile_commands.json
 CTestTestfile.cmake
 _deps
 firmware/EX-01-LED/Debug/
+firmware/EX-02-UART/Debug/
