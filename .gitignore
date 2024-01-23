@@ -12,3 +12,4 @@ _deps
 firmware/EX-01-LED/Debug/
 firmware/EX-02-UART/Debug/
 firmware/EX-03-FMC/Debug/
+firmware/EX-04-PWM/Debug/
